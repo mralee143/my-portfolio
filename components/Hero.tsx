@@ -1,6 +1,5 @@
 import React from "react";
 import TypeWriteEffect from "./Helper/TypeWriteEffect";
-import Image from "next/image";
 
 const Hero = () => {
   return (
