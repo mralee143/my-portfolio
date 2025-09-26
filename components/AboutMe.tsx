@@ -62,7 +62,7 @@ const AboutMe = () => {
               data-aos-delay="200"
               className="p-6 text-center bg-red-500"
             >
-              <p className="text-[50px] text-white italic font-bold">100+</p>
+              <p className="text-[50px] text-white italic font-bold">50+</p>
               <p className="text-[20px] text-white italic font-600">
                 Happy CLient
               </p>
@@ -73,7 +73,7 @@ const AboutMe = () => {
               data-aos-delay="400"
               className="p-6 text-center bg-red-500"
             >
-              <p className="text-[50px] text-white italic font-bold">150+</p>
+              <p className="text-[50px] text-white italic font-bold">50+</p>
               <p className="text-[20px] text-white italic font-600">
                 Project Done
               </p>
